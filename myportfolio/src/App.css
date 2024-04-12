@@ -39,6 +39,12 @@
 
 ul li{
   list-style: none;
+  transition: transform 0.3s ease-in-out;
+
+
+}
+ul li:hover{
+  transform: scale(1.1); /* Adjust the scale factor as needed */
 
 }
 ul li a{

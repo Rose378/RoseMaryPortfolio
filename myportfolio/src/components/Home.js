@@ -5,12 +5,15 @@ import About from "./About";
 import Contact from "./Contact";
 import linkedin from "../Assets/linkedin.svg"
 import github from "../Assets/github.svg"
+import telegram from "../Assets/telegram.png"
+
 
 import { Link } from "react-router-dom";
 const Home = () => {
 
     const LinkedinUrl = 'https://www.linkedin.com/in/rosemary-k-401a0729a/';
-    const GitHubUrl = 'https://github.com/Rose378'
+    const GitHubUrl = 'https://github.com/Rose378';
+    const TelegramURL = 'https://t.me/s/rosemaryuidev'
     return(
         <Fragment>
             <div className="container text-white" style={{marginTop:"60px" , marginBottom:"50px"}}>
@@ -25,9 +28,11 @@ const Home = () => {
                             </p>                      
                         </div>
             
-                        <div>
-                        <Link to={LinkedinUrl} target="_blank"><img src={linkedin} width={30} height={30}/></Link>
-                        <Link to={GitHubUrl} target="_blank"><img src={github} width={30} height={30}/></Link>
+                        <div style={{margin:"15px"}}>
+                        <Link to={LinkedinUrl} target="_blank"><img src={linkedin} width={30} height={30} style={{borderRadius:"50%"}}/></Link>
+                        <Link to={GitHubUrl} target="_blank" className="ml-2" ><img src={github} width={30} height={30} style={{background:"white" , borderRadius:"50%"}}/></Link>
+                        <Link to={TelegramURL} target="_blank" className="ml-2"><img src={telegram} width={30} height={30} /></Link>
+
 
                         </div>
                         

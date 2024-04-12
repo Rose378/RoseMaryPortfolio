@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/RosePortfolio/static/css/main.f0f6068b.css",
-    "main.js": "/RosePortfolio/static/js/main.0610e4b7.js",
-    "static/js/453.83234151.chunk.js": "/RosePortfolio/static/js/453.83234151.chunk.js",
-    "static/media/landingImage2.gif": "/RosePortfolio/static/media/landingImage2.b1c8358dfb37b54c573a.gif",
-    "static/media/arrow.gif": "/RosePortfolio/static/media/arrow.a6a12daf7033120ef65d.gif",
-    "static/media/contactme.gif": "/RosePortfolio/static/media/contactme.c62b2541921a009fd3b5.gif",
-    "static/media/roselogo1.jpeg": "/RosePortfolio/static/media/roselogo1.5ad317c4e82f3a3a7003.jpeg",
-    "static/media/github.svg": "/RosePortfolio/static/media/github.34cfa51ae6e676ffc1f41a91f3f205bb.svg",
-    "index.html": "/RosePortfolio/index.html",
-    "static/media/linkedin.svg": "/RosePortfolio/static/media/linkedin.3530f2ff708cbfa72ad0bed5a92bccc6.svg",
-    "main.f0f6068b.css.map": "/RosePortfolio/static/css/main.f0f6068b.css.map",
-    "main.0610e4b7.js.map": "/RosePortfolio/static/js/main.0610e4b7.js.map",
-    "453.83234151.chunk.js.map": "/RosePortfolio/static/js/453.83234151.chunk.js.map"
+    "main.css": "/RoseMaryPortfolio/static/css/main.f0f6068b.css",
+    "main.js": "/RoseMaryPortfolio/static/js/main.5452d29d.js",
+    "static/js/453.83234151.chunk.js": "/RoseMaryPortfolio/static/js/453.83234151.chunk.js",
+    "static/media/landingImage2.gif": "/RoseMaryPortfolio/static/media/landingImage2.b1c8358dfb37b54c573a.gif",
+    "static/media/arrow.gif": "/RoseMaryPortfolio/static/media/arrow.a6a12daf7033120ef65d.gif",
+    "static/media/contactme.gif": "/RoseMaryPortfolio/static/media/contactme.c62b2541921a009fd3b5.gif",
+    "static/media/roselogo1.jpeg": "/RoseMaryPortfolio/static/media/roselogo1.5ad317c4e82f3a3a7003.jpeg",
+    "static/media/github.svg": "/RoseMaryPortfolio/static/media/github.34cfa51ae6e676ffc1f41a91f3f205bb.svg",
+    "index.html": "/RoseMaryPortfolio/index.html",
+    "static/media/linkedin.svg": "/RoseMaryPortfolio/static/media/linkedin.3530f2ff708cbfa72ad0bed5a92bccc6.svg",
+    "main.f0f6068b.css.map": "/RoseMaryPortfolio/static/css/main.f0f6068b.css.map",
+    "main.5452d29d.js.map": "/RoseMaryPortfolio/static/js/main.5452d29d.js.map",
+    "453.83234151.chunk.js.map": "/RoseMaryPortfolio/static/js/453.83234151.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0f6068b.css",
-    "static/js/main.0610e4b7.js"
+    "static/js/main.5452d29d.js"
   ]
 }
